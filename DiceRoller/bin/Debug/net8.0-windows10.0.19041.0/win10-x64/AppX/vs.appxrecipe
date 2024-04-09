@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\2DS -EVB\PAM\Avaliação - Correção\DiceRoller\DiceRoller\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-02T01:11:43.034</Modified>
+      <Modified>2024-04-09T00:48:33.035</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\Avaliação - Correção\DiceRoller\DiceRoller\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DiceRoller.dll">
       <PackagePath>DiceRoller.dll</PackagePath>
-      <Modified>2024-04-02T01:11:42.178</Modified>
+      <Modified>2024-04-09T00:48:32.175</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\Avaliação - Correção\DiceRoller\DiceRoller\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DiceRoller.exe</PackagePath>
-      <Modified>2024-04-02T01:11:42.225</Modified>
+      <Modified>2024-04-09T00:48:32.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS -EVB\PAM\Avaliação - Correção\DiceRoller\DiceRoller\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
