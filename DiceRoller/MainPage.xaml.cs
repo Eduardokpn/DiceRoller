@@ -18,6 +18,7 @@
             valorSorteado = new Random().Next(1, valor +1);
 
             Result.Text = valorSorteado.ToString();
+
             
         }
     }

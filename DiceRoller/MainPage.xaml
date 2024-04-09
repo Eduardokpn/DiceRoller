@@ -24,7 +24,7 @@
 
             <Picker
                 x:Name="SlidesPicker"> 
-
+                    
                 <Picker.ItemsSource>
                     <x:Array Type="{x:Type x:String}">
                         <x:String>4</x:String>
